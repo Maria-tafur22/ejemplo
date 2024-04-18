@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+nav ul {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: -8px;
+}
+
+nav li {
+    display: inline-flex;
+}
